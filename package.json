@@ -1,0 +1,15 @@
+{
+  "name": "ideas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Varun",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/cli": "^5.7.1",
+    "@nestjs/common": "^5.5.0"
+  }
+}
