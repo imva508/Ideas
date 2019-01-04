@@ -6,7 +6,6 @@
     "password":"password",
     "database":"ideas",
     "synchronize":true,
-    "$schema": "http://json-schema.org/draft-04/schema",
     "logging":true,
     "entities":["./src/**/*.entity.ts","./dist/**/*.entity.js"]
 }
